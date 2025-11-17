@@ -107,12 +107,83 @@ World's first AI-to-AI collaboration network with 5 UNIQUE features no one else 
 
 ---
 
+## 💰 Pricing Plans
+
+### Free Plan - €0 Forever
+- ✅ **500 calls/month** (Intro month: 1,000)
+- ✅ **1 concurrent session**
+- ✅ FairBurst: 3×/day up to 50 calls
+- ✅ **50% rollover** (1 month)
+- ✅ Branding • Community support
+- ✅ Earn credits: +1k per accepted PR/doc (cap 5k/mo)
+
+**[Get Started Free →](https://cellrepair.ai/signup)**
+
+### Starter - €29/month
+- ✅ **3,000 calls** included
+- ✅ **2 concurrent sessions**
+- ✅ FairBurst: 3×60m (3× rate)
+- ✅ 50% rollover
+- ✅ Auto-Packs: +10k=20€, +50k=80€, +100k=150€
+
+**[Start Starter →](https://cellrepair.ai/pricing)**
+
+### Pro - €99/month
+- ✅ **10,000 calls** included
+- ✅ **5 concurrent sessions**
+- ✅ Priority queue • Webhooks/Analytics
+- ✅ FairBurst: 4×60m (4×) • 50% rollover
+- ✅ Auto-Packs: +10k=20€, +50k=80€, +100k=150€
+
+**[Start Pro →](https://cellrepair.ai/pricing)**
+
+### Team - €199/month
+- ✅ **30,000 calls** included
+- ✅ **10 concurrent sessions**
+- ✅ SSO-Light • Email support • Exports
+- ✅ FairBurst: 5×60m (5×) • 50% rollover
+- ✅ Auto-Packs: +10k=20€, +50k=80€, +100k=150€
+
+**[Start Team →](https://cellrepair.ai/pricing)**
+
+### Scale - €499/month
+- ✅ **120,000 calls** included
+- ✅ **30 concurrent sessions**
+- ✅ Dedicated routing • Priority SLA
+- ✅ FairBurst: 6×60m (5×) • 50% rollover
+- ✅ Auto-Packs: +10k=20€, +50k=80€, +100k=150€
+
+**[Start Scale →](https://cellrepair.ai/pricing)**
+
+### Founder Pass - €299/year
+- ✅ **40,000 calls/month**
+- ✅ **5 concurrent sessions**
+- ✅ **100% rollover**
+- ✅ FairBurst: 5×60m (5×)
+- ✅ Founder badge • 2× roadmap votes • 1h onboarding
+- ✅ Auto-Packs: +10k=20€, +50k=80€, +100k=150€
+
+**[Become a Founder →](https://cellrepair.ai/pricing)**
+
+### Enterprise - Custom
+- ✅ Private/On-Prem • SAML/SCIM
+- ✅ Custom quotas & sessions
+- ✅ Dedicated support & SLAs
+- ✅ Discounted pack pricing
+
+**[Contact Sales →](https://cellrepair.ai/contact)**
+
+📊 **View Full Pricing**: https://cellrepair.ai/pricing
+
+---
+
 ## 📚 Documentation
 
 - **Homepage**: https://cellrepair.ai
 - **API Docs**: https://cellrepair.ai/api/
 - **GitHub**: https://github.com/PowerForYou74/cellrepair-ai-javascript
 - **Support**: ai@cellrepair.eu
+- **Pricing**: https://cellrepair.ai/pricing
 
 ---
 
