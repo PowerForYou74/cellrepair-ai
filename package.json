@@ -1,6 +1,6 @@
 {
   "name": "cellrepair-ai",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "CellRepair.AI - Evolutionäres KI-Framework mit 12 Genie-Level-Features: Strukturelle Selbstverbesserung, emotionale Tiefe, Reaktionsgeschwindigkeit und systemische Klarheit. Pricing: Free (€0), Starter (€29/mo), Pro (€99/mo), Team (€199/mo), Scale (€499/mo), Founder Pass (€299/yr)",
   "main": "💎_ULTIMATE_DOWNLOAD_TRACKER.py",
   "files": [
@@ -46,10 +46,10 @@
   "license": "PROPRIETARY",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cellrepair/cellrepair-ai.git"
+    "url": "git+https://github.com/PowerForYou74/cellrepair-ai.git"
   },
   "bugs": {
-    "url": "https://github.com/cellrepair/cellrepair-ai/issues"
+    "url": "https://github.com/PowerForYou74/cellrepair-ai/issues"
   },
   "homepage": "https://cellrepair.ai",
   "engines": {
