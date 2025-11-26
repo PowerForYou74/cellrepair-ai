@@ -1,6 +1,6 @@
 # 💰 CellRepair.AI Pricing
 
-**Version:** 2.0.0  
+**Version:** 2.0.1  
 **Last Updated:** November 2025  
 **Currency:** EUR (€)
 

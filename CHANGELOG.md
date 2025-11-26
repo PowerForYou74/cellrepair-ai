@@ -5,6 +5,22 @@ All notable changes to CellRepair.AI will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.1] - 2025-11-25
+
+### 🔧 Fixed
+
+- **GitHub Repository URL:** Korrigiert von `github.com/cellrepair/cellrepair-ai` zu `github.com/PowerForYou74/cellrepair-ai`
+- **NPM Package:** Repository-Link aktualisiert
+- **PyPI Package:** Version synchronisiert
+- **API Server:** Syntax-Fehler behoben (IndentationError in `_calculate_growth_metrics()`)
+- **Research Hammer Import:** Numerischer Modulname-Fehler behoben
+
+### 📦 Updated
+
+- **NPM:** v2.0.1 veröffentlicht
+- **PyPI:** v2.0.1 veröffentlicht
+- **GitHub:** Alle Versionen synchronisiert
+
 ## [2.0.0] - 2025-11-17
 
 ### 🚀 Major Release: Evolutionäres KI-Framework mit 12 Genie-Level-Features
